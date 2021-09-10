@@ -9,7 +9,7 @@ Module Program
     Dim age As Integer  'Age of user 
     Dim feeling As String 'How the user feels
     Dim NumberCount As Integer 'The current number the program is counting 
-    Dim MaxNumber As Integer 'The highest number the program will count up to
+    Dim MaxNumber As Integer 'The maximum number the program will count up to
     Dim CurrentColour As Integer 'The current colour of the foreground 
     
          Sub Main(args As String())
