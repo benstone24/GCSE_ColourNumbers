@@ -1,0 +1,13 @@
+C:\Users\Ben\RiderProjects\ColourNumbers\ColourNumbers\bin\Debug\netcoreapp3.1\ColourNumbers.exe
+C:\Users\Ben\RiderProjects\ColourNumbers\ColourNumbers\bin\Debug\netcoreapp3.1\ColourNumbers.deps.json
+C:\Users\Ben\RiderProjects\ColourNumbers\ColourNumbers\bin\Debug\netcoreapp3.1\ColourNumbers.runtimeconfig.json
+C:\Users\Ben\RiderProjects\ColourNumbers\ColourNumbers\bin\Debug\netcoreapp3.1\ColourNumbers.runtimeconfig.dev.json
+C:\Users\Ben\RiderProjects\ColourNumbers\ColourNumbers\bin\Debug\netcoreapp3.1\ColourNumbers.dll
+C:\Users\Ben\RiderProjects\ColourNumbers\ColourNumbers\bin\Debug\netcoreapp3.1\ColourNumbers.pdb
+C:\Users\Ben\RiderProjects\ColourNumbers\ColourNumbers\obj\Debug\netcoreapp3.1\ColourNumbers.vbprojAssemblyReference.cache
+C:\Users\Ben\RiderProjects\ColourNumbers\ColourNumbers\obj\Debug\netcoreapp3.1\ColourNumbers.AssemblyInfoInputs.cache
+C:\Users\Ben\RiderProjects\ColourNumbers\ColourNumbers\obj\Debug\netcoreapp3.1\ColourNumbers.AssemblyInfo.vb
+C:\Users\Ben\RiderProjects\ColourNumbers\ColourNumbers\obj\Debug\netcoreapp3.1\ColourNumbers.vbproj.CoreCompileInputs.cache
+C:\Users\Ben\RiderProjects\ColourNumbers\ColourNumbers\obj\Debug\netcoreapp3.1\ColourNumbers.dll
+C:\Users\Ben\RiderProjects\ColourNumbers\ColourNumbers\obj\Debug\netcoreapp3.1\ColourNumbers.pdb
+C:\Users\Ben\RiderProjects\ColourNumbers\ColourNumbers\obj\Debug\netcoreapp3.1\ColourNumbers.genruntimeconfig.cache
